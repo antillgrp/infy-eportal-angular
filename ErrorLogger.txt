@@ -1,0 +1,132 @@
+Error: No record with this emp Id: 354545
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: 343443
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: 545556
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: 545556
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: 545556
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: 545454
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: 456455
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: 456455
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: 545556
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: 435445
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+ReferenceError: employee is not defined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:52:40
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: Cannot read property 'empId' of undefined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/routes/Routing.js:47:40
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:47:12)
+TypeError: Cannot read property 'empId' of undefined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/routes/Routing.js:47:40
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:47:12)
+TypeError: Cannot read property 'empId' of undefined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/routes/Routing.js:47:40
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:47:12)
+TypeError: Cannot read property 'empId' of undefined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/routes/Routing.js:47:40
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:47:12)
+TypeError: Cannot read property 'empId' of undefined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/routes/Routing.js:47:40
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:47:12)
+TypeError: Cannot read property 'empId' of undefined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/routes/Routing.js:47:40
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:47:12)
+TypeError: Cannot read property 'empId' of undefined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/routes/Routing.js:47:40
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:47:12)
+TypeError: Cannot read property 'empId' of undefined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/routes/Routing.js:47:40
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:47:12)
+Error: Cannot find module 'http-status-codes'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/routes/Routing.js:49:13
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/layer.js:95:5)
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/node_modules/express/lib/router/index.js:281:22

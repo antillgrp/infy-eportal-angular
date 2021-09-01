@@ -1,0 +1,9 @@
+Error: No record with this emp Id: undefined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: undefined
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No record with this emp Id: :939073
+    at /home/toor/AngularProjs/infy-eportal-angular/EPwebservice/public/javascripts/EmployeeDAL.js:9:31
+    at process._tickCallback (internal/process/next_tick.js:68:7)
