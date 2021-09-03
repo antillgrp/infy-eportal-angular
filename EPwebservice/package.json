@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "db": "sudo docker run -v /home2/mongo/data:/data/db -p 27017:27017 -d mongo",
+    "mongo": "docker run -v $(pwd)/../mongodb/data:/data/db -p 27017:27017 -d mongo; ",
     "start": "node app.js"
   },
   "author": "Gerson Ramirez",

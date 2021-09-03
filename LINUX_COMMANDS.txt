@@ -1,4 +1,6 @@
 sudo mount -v -o 'vers=3' 192.168.1.200:/coding /home/toor/CODING/gonedrive/
 umount -f -l /home/toor/CODING/gonedrive/
 rsync -avuP CODING/gonedrive/ gonedrive/
-sudo docker run -v /home/mongo/data:/data/db -p 27017:27017 -d mongo
+sudo docker run -v /tmp/mongodb/data:/data/db -p 27017:27017 -d mongo
+mongodump -d EPORTAL_DB --gzip --archive=../eportal_db-mgodb.dump.gz
+mongorestore --db EPORTAL_DB --gzip --archive=../eportal_db-mgodb.dump.gz
