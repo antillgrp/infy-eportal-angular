@@ -1,12 +1,12 @@
 # [Angular: Beyond the Basics](https://lex.infosysapps.com/en/app/toc/lex_auth_0127668079785820163566/overview)
 
-
-
 ![](assets/20210905_190252_Angular.png)
 
 ---
 
-# Capstone Projects: **EPortal Application - Problem Statement**
+# Capstone Projects: EPortal Application
+
+### **Problem Statement**
 
 "EPortal" is an application where managers can collect information
 about the job and skill set of their team members as well as where team
