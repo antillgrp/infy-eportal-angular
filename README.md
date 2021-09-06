@@ -143,7 +143,7 @@ Input fields should have the validations
 
 This web app is a **Full Stack** (Front-End (client) <=> Back-End (servers)).
 
-![](assets/1111.mp4)
+https://github.com/antillgrp/infy-eportal-angular/raw/main/assets/1111.mp4
 
 Next points describe how was it done and what technologies were used:
 
