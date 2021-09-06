@@ -19,7 +19,72 @@ members can also submit information relevant to their job. Download [**CapstoneA
 2. MongoDB
 3. Node
 
+# [infy-eportal-angular](https://https://github.com/antillgrp/infy-eportal-angular)
+
+This web app is a **Full Stack** (Front-End (client) <=> Back-End (servers)).
+
+Next points describe how was it done and what technologies were used:
+
+- # Front-End
+
+| Core |||| Auxiliar libraries and dependencies: |
+| :--------------------- |-|-|-| :--- |
+| TypeScript |||| bootstrap |
+| **Angular** |||| @angular/form |
+| **RxJS** |||| @angular/router|
+
+### Instructions(webapp)
+
+```
+cd infy-eportal-angular/EP_UI/
+npm start
+```
+
+- # Back-End
+
+#### Back-End consist in a Node/Express/MongoDriver (**REST APIs**):
+
+- #### express (web server)
+- #### mongo (mongodb driver for nodejs)
+
+### Database Server Setup:
+
+- #### Inicializing MongoDB Server Docker Container
+
+```
+sudo docker run -v /tmp/mongodb/data:/data/db -p 27017:27017 -d mongo
+```
+
+- #### Restoring EPORTAL_DB database from Dump File
+
+```
+mongorestore --db EPORTAL_DB --gzip --archive=../eportal_db-mgodb.dump.gz
+```
+
+- #### Backing up EPORTAL_DB database as Dump File
+
+```
+mongodump -d EPORTAL_DB --gzip --archive=../eportal_db-mgodb.dump.gz
+```
+
+### Webservice Instructions:
+
+```
+cd infy-eportal-angular/EPwebservice/
+sudo npm start
+```
+
+On successful execution, you can see the following output in the terminal:
+
+```
+Your web service is running in on port 1020
+```
+
+---
+
 ## **PROJECT COFIGURATION AND SETUP**
+
+---
 
 EPwebservice contains the following **Fully Implemented** artifacts:
 
@@ -49,20 +114,6 @@ a. Start the Mongo database server and the mongo terminal.
 b. From the **EPWebservice** project copy the contents of **TableScript.txt** file. Right-click on the mongodb client and paste the content.
 
 c. Your database is now ready to use.
-
-**Running back end application (EPwebservice)**
-
-Now run the application using the command:
-
-```
-$ sudo node app
-```
-
-On successful execution, you can see the following output in the terminal:
-
-```
-Your web service is running in on port 1020
-```
 
 ## **Project Implementation (EPortal_UI):**
 
@@ -138,50 +189,4 @@ Input fields should have the validations
 |phoneNo|required|Phone No is required|
 
 **Hint: Use custom validators where ever necessary**
-
-# [infy-eportal-angular](https://https://github.com/antillgrp/infy-eportal-angular)
-
-This web app is a **Full Stack** (Front-End (client) <=> Back-End (servers)).
-
-![](assets/1111.mp4)
-
-Next points describe how was it done and what technologies were used:
-
-- # Front-End
-
-| Core |||| Auxiliar libraries and dependencies: |
-| :--------------------- |-|-|-| :--- |
-| TypeScript |||| bootstrap |
-| **Angular** |||| @angular/form |
-| **RxJS** |||| @angular/router|
-
-### Instructions(webapp)
-
-```
-$ cd infy-eportal-angular/EP_UI/
-$ npm start
-```
-
-- # Back-End
-
-Back-End consist in a Node/Express (**REST APIs**),
-
-### 1st server NodeJS:
-
-- #### express (web server)
-- #### mongo (mongodb driver for nodejs)
-
-### Webservice Instructions:
-
-\> cd swdv-620-web-apps-final-project/NodeServer
-
-\> **npm start**
-
-### Database Server Setup:
-
-\> docker pull **mysql**
-
-\> docker run --name mysql -p **3406**:3306 -e MYSQL_ROOT_PASSWORD=**mypassword** -d **mysql**
-
-\> mysql -h **localhost** -P **3406** -u **root** -p **mypassword** < **customers.sql**
 
