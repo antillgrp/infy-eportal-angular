@@ -1,6 +1,8 @@
 # [Angular: Beyond the Basics](https://lex.infosysapps.com/en/app/toc/lex_auth_0127668079785820163566/overview)
 
-#### Angular is the most powerful UI framework which can be used to develop complex customizable, modern, responsive and user-friendly web applications. Angular framework follows a component-oriented application design pattern to develop completely reusable and modularized web applications. This course introduces learner various advanced topics of Angular like components deep dive, custom directives, custom pipes, custom form validators, RxJS and var...
+
+
+![](assets/20210905_190252_Angular.png)
 
 ---
 
