@@ -6,7 +6,7 @@
 
 ---
 
-### Capstone Projects: **EPortal Application - Problem Statement**
+# Capstone Projects: **EPortal Application - Problem Statement**
 
 "EPortal" is an application where managers can collect information
 about the job and skill set of their team members as well as where team
